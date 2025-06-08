@@ -64,7 +64,6 @@ As cartas devem conter os seguintes atributos `data-*`:
 - `data-categoria`: Categoria da carta
 - `data-preco`: Preço da carta (formato numérico)
 
-
 ## 📝 Roadmap
 
 - [ ] Adicionar mais filtros (raridade, tipo, etc.)
@@ -74,18 +73,17 @@ As cartas devem conter os seguintes atributos `data-*`:
 - [ ] Adicionar animações de transição
 - [ ] Implementar modo escuro
 
-
 ## 👨‍💻 Autor
 
-**Seu Nome**
 - GitHub: [@josealbertodeev](https://github.com/josealbertodeev)
 - LinkedIn: [José Alberto B Farias
 ](https://www.linkedin.com/in/josé-alberto-b-farias/)
 
+## Acesse o site por aqui 👉 [Link](https://magick-ai-phi.vercel.app)
 
 ## 🙏 Agradecimentos
 
-- Comunidade DevQuest
+-  DevQuest
 
 ---
 
