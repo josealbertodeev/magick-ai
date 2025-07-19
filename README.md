@@ -5,6 +5,7 @@ Um sistema web para filtrar cartas baseado em categoria e preço máximo, desenv
 ## 📋 Sobre o Projeto
 
 O MagicKAI é uma aplicação web que permite aos usuários filtrar uma coleção de cartas utilizando critérios de categoria e preço máximo. O projeto foi desenvolvido com foco em simplicidade e performance, utilizando apenas tecnologias web nativas.
+<img width="870" height="935" alt="Screenshot_1" src="https://github.com/user-attachments/assets/72b3ed38-6850-4810-86d6-01814bd6868f" />
 
 ## ✨ Funcionalidades
 
