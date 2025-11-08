@@ -78,7 +78,7 @@ As cartas devem conter os seguintes atributos `data-*`:
 
 - GitHub: [@josealbertodeev](https://github.com/josealbertodeev)
 - LinkedIn: [José Alberto B Farias
-](https://www.linkedin.com/in/joséalberto)
+](https://www.linkedin.com/in/josealbertofarias/)
 
 ## Acesse o site por aqui 👉 [Link](https://magick-ai-phi.vercel.app)
 
@@ -89,4 +89,5 @@ As cartas devem conter os seguintes atributos `data-*`:
 ---
 
 ⭐ Se este projeto te ajudou, considere dar uma estrela no repositório!
+
 
